@@ -1,2 +1,0 @@
-pkg install tor
-pip install pysocks
